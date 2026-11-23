@@ -1,4 +1,4 @@
-# Subhash Mandal — Personal Portfolio
+# Subhash Malepati — Personal Portfolio
 
 A clean, responsive personal portfolio website showcasing my journey as a student developer, my technical toolkit, and selected web concepts.
 
